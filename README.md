@@ -21,6 +21,16 @@ regular expression,
 remove common words,
 key words.
 day:3
+word to word,
+trading,
+project manager,
+regular expression,
+mirror image,
+max number,
+good pair,
+anagrams,
+add binary,
+permutations.
 
 
 
