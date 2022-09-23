@@ -31,6 +31,16 @@ good pair,
 anagrams,
 add binary,
 permutations.
+day:4
+array string,
+number of students,
+no. of jumps,
+smaller current number,
+remove character,
+count sorted vowel strings,
+scramble string,
+date season problem,
+
 
 
 
